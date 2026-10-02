@@ -7,12 +7,11 @@ The project helps understand business performance through interactive visualizat
 ## 📸 Dashboard Preview
 
 ### Page 1: Sales Overview
-![Sales Overview Dashboard](Dashboard image/Page1 Sales Performance.PNG)
+!(Dashboard image/Page1 Sales Performance.PNG)
 
 ### Page 2: Regional Analysis
-![Regional Analysis Dashboard](Dashboard image/page2 Regional analysis.PNG)
+!(Dashboard image/page2 Regional analysis.PNG)
 
-> **Note:** Upload your dashboard screenshots to the `images` folder using the filenames shown above.
 
 ## 🎯 Project Objectives
 
