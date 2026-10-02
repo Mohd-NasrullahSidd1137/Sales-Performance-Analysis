@@ -7,12 +7,10 @@ The project helps understand business performance through interactive visualizat
 ## 📸 Dashboard Preview
 
 ### Page 1: Sales Overview
-!(Dashboard image/Page1 Sales Performance.PNG)
+![Page 1 Sales Performance](Dashboard%20Image/Page1%20Sales%20Performance.PNG)
 
 ### Page 2: Regional Analysis
-!(Dashboard image/page2 Regional analysis.PNG)
-
-
+![Page 2 Regional Analysis](Dashboard%20Image/page2%20Regional%20analysis.PNG)
 ## 🎯 Project Objectives
 
 - Analyze monthly revenue trends.
